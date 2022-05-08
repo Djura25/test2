@@ -1,0 +1,13 @@
+C:\Users\NZXT\Desktop\oop\testoop\testoop\bin\Debug\netcoreapp3.1\testoop.exe
+C:\Users\NZXT\Desktop\oop\testoop\testoop\bin\Debug\netcoreapp3.1\testoop.deps.json
+C:\Users\NZXT\Desktop\oop\testoop\testoop\bin\Debug\netcoreapp3.1\testoop.runtimeconfig.json
+C:\Users\NZXT\Desktop\oop\testoop\testoop\bin\Debug\netcoreapp3.1\testoop.runtimeconfig.dev.json
+C:\Users\NZXT\Desktop\oop\testoop\testoop\bin\Debug\netcoreapp3.1\testoop.dll
+C:\Users\NZXT\Desktop\oop\testoop\testoop\bin\Debug\netcoreapp3.1\testoop.pdb
+C:\Users\NZXT\Desktop\oop\testoop\testoop\obj\Debug\netcoreapp3.1\testoop.csprojAssemblyReference.cache
+C:\Users\NZXT\Desktop\oop\testoop\testoop\obj\Debug\netcoreapp3.1\testoop.AssemblyInfoInputs.cache
+C:\Users\NZXT\Desktop\oop\testoop\testoop\obj\Debug\netcoreapp3.1\testoop.AssemblyInfo.cs
+C:\Users\NZXT\Desktop\oop\testoop\testoop\obj\Debug\netcoreapp3.1\testoop.csproj.CoreCompileInputs.cache
+C:\Users\NZXT\Desktop\oop\testoop\testoop\obj\Debug\netcoreapp3.1\testoop.dll
+C:\Users\NZXT\Desktop\oop\testoop\testoop\obj\Debug\netcoreapp3.1\testoop.pdb
+C:\Users\NZXT\Desktop\oop\testoop\testoop\obj\Debug\netcoreapp3.1\testoop.genruntimeconfig.cache
